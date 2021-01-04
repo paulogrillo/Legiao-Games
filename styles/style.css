@@ -1,0 +1,39 @@
+.my-menu {
+    border: 2px solid #dc3545;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.my-menuitem {
+    color: blue;
+    background-color: #ee1;
+}
+
+.my-menuitem-hover {
+    color: #ee1;
+    background-color: #bf4080;
+}
+
+.my-menuitem-active {
+    background-color: #333;
+}
+
+.landing-div {
+  
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+
+} .landing-img {
+   
+    width: 100%;
+    height: 100%;
+    margin-top: -140px;
+}
+
+.landing-mobile {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
